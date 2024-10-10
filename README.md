@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Dhruv Gupta</h1>
-<p>A passionate full stack developer from India</p>
+<p>I’m a full stack developer actively working on diverse live projects, constantly exploring new technologies to push the boundaries of what I can build. My focus is on delivering seamless, scalable solutions while growing my expertise across the development stack.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -30,5 +30,3 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/https://x.com/Dhruv35187508" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/dhruvgupta561/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruv343&show_icons=true&locale=en" alt="dhruv343" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv343&" alt="dhruv343" /></p>
